@@ -15,3 +15,11 @@ x,B,n = gsolve(A,b)    # get a special solution, a matrix of bases, the nullity 
 x1 = x + B.dot(v)      # get a new solution with a vector with length n 
 ...
 ```
+
+
+
+## Install
+
+```
+python -m pip install general_solutions
+```
